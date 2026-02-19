@@ -2,10 +2,6 @@
 <h3 align="center">Java Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinaysinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysinghrawat" />
-</p>
-
-<p align="center">
   🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun (2022–2026) <br/>
   🚀 Building scalable & secure web applications
 </p>
@@ -72,5 +68,4 @@
 </p>
 
 ---
-
 ⭐ If you like my work, consider giving my repositories a star!
