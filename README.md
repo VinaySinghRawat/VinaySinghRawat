@@ -28,9 +28,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,aws,kafka,docker,mysql,mongodb" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
 
 ### 🧰 Tools  
 <p>
